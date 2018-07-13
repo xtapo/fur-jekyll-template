@@ -11,6 +11,10 @@ garment_type:
 price: '9.00'
 sku: elephant
 stock: 10
+Kích thước: 
+  - 40
+  - 41
+  - 42
 sizes:
   - Small
   - Medium
