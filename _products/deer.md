@@ -5,7 +5,6 @@ description_markdown: >-
   this majestic beast and feel all your problems float away.
 
 
-
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
 price: '9.00'
@@ -16,6 +15,8 @@ sizes:
   - Medium
   - Large
   - XL
+  - test
+  - ok
 styles:
   - name: Black
     color: '#000000'
